@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Veiling.Tests/Veiling.Tests.csproj" />
+  <Project Path="Veiling/Veiling.csproj" />
+</Solution>
